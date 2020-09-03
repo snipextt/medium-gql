@@ -1,0 +1,12 @@
+{
+  "name": "medium-gql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Saurav Singh",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "apollo-server": "^2.17.0",
+    "moment": "^2.27.0"
+  }
+}
